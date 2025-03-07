@@ -1,0 +1,5 @@
+{
+  "watch": ["*.js", "config/*", "models/*"],
+  "ignore": ["node_modules/*", ".wwebjs_cache/*"],
+  "ext": "js,json"
+} 
